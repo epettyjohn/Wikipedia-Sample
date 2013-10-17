@@ -1,11 +1,20 @@
-header {
-	background: red; 
+/*
+Color Palette 
+1st #CBD5BD, light green 
+2nd #F7E3DA, light peach
+3rd #FF849E, accent color pink
+
+
+*/
+
+body {
+		background: url("../img/bg.png")
+		font-family: 'Allerta', sans-serif;
 }
 
-nav {
-	background: green;
+h1 {
+	color: #CBD5BD; 
 }
-
 
 /* Help Classes */
 .showgrid {
